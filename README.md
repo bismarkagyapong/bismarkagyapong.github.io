@@ -24,8 +24,8 @@ At Markmix Studios, our mission is to deliver high-quality services that enable 
 
 ## How to Reach Us
 For inquiries or collaborations, you can reach out to us:
-- **Website**: [Markmix Studios](https://markmixstudios.blogspot.com)
-- **Email**: markmixstudios@gmail.com
+- **Website**: [Markmix Studios](https://markmixstudios.com)
+- **Email**: bismark@markmixstudios.com
 - **Social Media**: Follow us on all platforms @MarkmixStudios
 
 ## Support
