@@ -26,7 +26,7 @@ At Markmix Studios, our mission is to deliver high-quality services that enable 
 For inquiries or collaborations, you can reach out to us:
 - **Website**: [Markmix Studios](https://markmixstudios.com)
 - **Email**: info@markmixstudios.com
-- **Social Media**: Follow us on all platforms @MarkmixStudios
+- **Social Media**: Follow us on all platforms @Markmix.Studios
 
 ## Support
 If you find this repository helpful, feel free to star the repo or share it with others. Contributions are always welcome to improve our services and projects!
